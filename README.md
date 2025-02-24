@@ -1,5 +1,4 @@
 # HRrequirement_Employee_churn
-https://public.tableau.com/authoring/EmployeeAnalyticsDashboard_17383031511000/EmpDashboard2#1
 
 Overview
 The Employee Analytics Dashboard is a HR analytics solution that helps organizations track and analyze workforce trends, employee performance, and retention metrics to enhance decision-making,this Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
